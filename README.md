@@ -113,9 +113,9 @@ In addition, pregenerated versions of them are available.
 *   [EPUB](https://docs.mobilitydb.com/MobilityDB/master/mobilitydb.epub)
 
 ### Publications
-
+*   Mohamed Bakli, Mahmoud Sakr, Esteban Zimányi, Distributed Spatiotemporal Trajectory Query Processing in SQL. To appear in Proceedings of ACM SIGSPATIAL, 2020. [Preprint](https://docs.mobilitydb.com/pub/SigSpatial2020.pdf)
 *   Anita Graser, Esteban Zimányi, Krishna Chaitanya Bommakanti, [From Simple Features to Moving Features and Beyond?](https://arxiv.org/abs/2006.16900), arXiv 2006.16900, 2020.
-*   Esteban Zimányi, Mahmoud Sakr, Arthur Lesuisse, MobilityDB: A Mobility Database based on PostgreSQL and PostGIS. To appear in ACM Transactions on Database Systems, 2020.
+*   Esteban Zimányi, Mahmoud Sakr, Arthur Lesuisse, MobilityDB: A Mobility Database based on PostgreSQL and PostGIS. To appear in ACM Transactions on Database Systems, 2020. [Preprint](https://docs.mobilitydb.com/pub/TODS.pdf)
 *   Mohamed Bakli, Mahmoud Sakr, Esteban Zimányi, [Distributed Mobility Data Management in
 MobilityDB](https://docs.mobilitydb.com/pub/MobilityDBDemo_MDM2020.pdf). In Proc. of the 21st IEEE International Conference on
 Mobile Data Management, MDM 2020.
